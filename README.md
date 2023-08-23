@@ -1,2 +1,5 @@
 # Testrepo
-#All about creating a new repository for my course
+
+#Checking out markdowns in Github
+
+It's a markdown!
